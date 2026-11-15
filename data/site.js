@@ -13,6 +13,7 @@ window.SITE = {
 
   links: {
     harvard:  "https://newmastersinfo.seas.harvard.edu/directory/duy-duong-tran/?cp-dir-id=431",
+    harvardPeople: "https://seas.harvard.edu/masters-data-science/people",
     github:   "https://github.com/dduongtr",
     scholar:  "",   // e.g. https://scholar.google.com/citations?user=XXXX
     linkedin: "",   // e.g. https://www.linkedin.com/in/your-handle

@@ -22,6 +22,7 @@
   function fmtDate(d) {
     var p = String(d).split("-");
     if (p.length === 1) return p[0];
+    if (p.length === 3) return MONTHS[parseInt(p[1], 10) - 1] + " " + parseInt(p[2], 10) + ", " + p[0];
     return MONTHS[parseInt(p[1], 10) - 1] + " " + p[0];
   }
 

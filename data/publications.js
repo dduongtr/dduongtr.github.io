@@ -27,7 +27,8 @@ window.PUBLICATIONS = [
 
 { title: "From promising capabilities to pervasive bias: Assessing large language models for emergency department triage",
   authors: "J. Lee, T. Shang, J.Y. Baik, D. Duong-Tran, S. Yang, L. Li, L. Shen",
-  venue: "Journal of Healthcare Informatics Research", year: 2026, type: "journal", themes: ["ai"] },
+  venue: "Journal of Healthcare Informatics Research", year: 2026, type: "journal", themes: ["ai"],
+  links: { "DOI": "https://doi.org/10.1007/s41666-026-00241-z" } },
 
 { title: "Divergence unveils further distinct phenotypic traits of human brain connectomics fingerprint",
   authors: "M.K. Uddin, N. Nguyen, H. Huang, D. Duong-Tran, J. Zheng",
